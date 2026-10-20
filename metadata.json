@@ -1,0 +1,6 @@
+{
+  "name": "صحرا سے سلیکون تک - UAE Documentary Voiceover & Studio",
+  "description": "Urdu documentary script narration, AI voiceover generator using Gemini Flash TTS, search-grounded economic facts, and archival image analyzer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
